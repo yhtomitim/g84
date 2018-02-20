@@ -70,7 +70,14 @@ h2 {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 20%;
+    width: 30%;
+    padding-bottom: 25px;
 }
 
+.btn {
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
 
